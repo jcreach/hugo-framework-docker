@@ -27,5 +27,5 @@ docker run -name hello-hugo -p 1313:1313 -v c:\path\to\hugo\project:c:\hugo-site
 ### Build your own
 
 ```powershell
-docker build --pull --rm -f "dockerfile" -t <imagee_name>:<tag> .
+docker build --pull --rm -f "dockerfile" -t <image_name>:<tag> .
 ```
