@@ -7,7 +7,7 @@ LABEL maintainer="julien.creach@protonmail.com"
 USER ContainerAdministrator
 SHELL ["pwsh", "-Command", "$ErrorActionPreference = 'Stop'; $ProgressPreference = 'SilentlyContinue';"]
 
-ENV HUGO_EXT_VERSION=0.96.0 \ 
+ENV HUGO_EXT_VERSION=0.97.0 \ 
     HUGO_BASEURL="http://localhost/" \
     HUGO_SITE="c:\hugo-site"
 # Env var hugo extended
