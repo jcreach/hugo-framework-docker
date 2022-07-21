@@ -4,7 +4,7 @@ Hugo framework docker image
 
 ## Overview
 
-Hugo is a static HTML and CSS website generator written in Go. See this link link : [Hugo](https://gohugo.io/).
+Hugo is a static HTML and CSS website generator written in Go. See this link : [Hugo](https://gohugo.io/).
 
 ## How to use
 
