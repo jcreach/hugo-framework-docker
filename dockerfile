@@ -1,7 +1,7 @@
 FROM mcr.microsoft.com/powershell:lts-nanoserver-1809
 
 LABEL author="Julien Creach"
-LABEL maintainer="julien.creach@protonmail.com"
+LABEL maintainer="julien.creach@pm.me"
 
 
 USER ContainerAdministrator
